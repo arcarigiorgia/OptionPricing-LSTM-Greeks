@@ -21,14 +21,14 @@ This project implements a hybrid model to predict European call option prices an
 
 2. Install the required dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip3 install -r requirements.txt
    ```
 
 ## Usage
 
 1. Run the script to download market data, train the model, and generate predictions:
    ```bash
-   python main.py
+   python3 main.py
    ```
 
 2. Output graphs and figures will be saved in the `figures/` directory.
